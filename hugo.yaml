@@ -1,9 +1,13 @@
-baseURL: https://example.org/
+baseURL: https://teddywulftone.com/
 languageCode: en-us
 title: Teddy Wulftone
 theme: PaperMod
 pagination:
   pagerSize: 7
+
+caches:
+  images:
+    dir: :cacheDir/images
 
 enableRobotsTXT: true
 
