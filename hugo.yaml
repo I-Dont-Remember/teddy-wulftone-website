@@ -10,6 +10,7 @@ caches:
     dir: :cacheDir/images
 
 enableRobotsTXT: true
+enableEmoji: true
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
@@ -80,6 +81,16 @@ params:
 
       - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper/tree/4330c8b12aa48bfdecbcad6ad66145f679a430b3).
 
+  socialIcons:
+    - name: X
+      title: Follow Teddy Wulftone on X/Twitter
+      url: "https://x.com/"
+    - name: YouTube
+      title: Follow Teddy Wulftone on YouTube
+      url: "https://youtube.com"
+    # - name: KoFi
+    #   title: Buy me a Ko-Fi :)
+    #   url: "https://ko-fi.com/adityatelange"
 
 ####
 # Done with the params
@@ -109,3 +120,8 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
+
+outputs:
+  home:
+    - HTML
+    - RSS
