@@ -1,2 +1,4 @@
+# explanation on the various hugo ignores/not ignores https://discourse.gohugo.io/t/host-on-github-pages-unable-to-locate-config-file-or-config-directory/50022/7
 public/
 .hugo_build.lock
+# resources/
