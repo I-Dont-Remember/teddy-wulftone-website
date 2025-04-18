@@ -73,24 +73,22 @@ params:
   homeInfoParams:
     Title: "Teddy Wulftone's Writing"
     Content: >
-      👋 Welcome to demo page of Hugo's theme PaperMod!
+      - Oh hi! Welcome to my mind! Be careful, it's dangerous in here.
 
-      - **PaperMod**  is designed to be clean and simple but fast and responsive theme with useful feature-set that enhances UX.
+      - 
 
-      - Feel free to show your support by giving us a star 🌟 on GitHub and sharing with your friends and social media .
-
-      - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper/tree/4330c8b12aa48bfdecbcad6ad66145f679a430b3).
+      - Here you'll mostly find my writing. I am writing a book. Slowly. YouTube and music below!
 
   socialIcons:
-    - name: X
-      title: Follow Teddy Wulftone on X/Twitter
-      url: "https://x.com/"
+    - name: Web
+      title: Red Fletcher
+      url: "https://redfletcher.net/"
     - name: YouTube
-      title: Follow Teddy Wulftone on YouTube
-      url: "https://youtube.com"
-    # - name: KoFi
-    #   title: Buy me a Ko-Fi :)
-    #   url: "https://ko-fi.com/adityatelange"
+      title: Main Channel
+      url: "https://www.youtube.com/@Wulftone"
+    - name: YouTube
+      title: Second Channel
+      url: "https://www.youtube.com/@TeddyWulftone"
 
 ####
 # Done with the params
@@ -101,9 +99,9 @@ menu:
       name: about
       url: /about/
       weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
+    # - identifier: tags
+    #   name: tags
+    #   url: /tags/
       weight: 20
     # - identifier: example
     #   name: example.org

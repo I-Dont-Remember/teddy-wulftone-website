@@ -8,8 +8,9 @@ hidemeta: true
 ShowBreadCrumbs: false
 ---
 
-A little about the author:
+A little about me:
 
 - Cat boy
-- Youtuber
-- magic
+- Drum lad
+- Youtube watcher and sometimes maker
+- Broke the world record for fewest world records broken
