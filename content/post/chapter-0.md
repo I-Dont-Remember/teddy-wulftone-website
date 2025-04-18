@@ -5,4 +5,4 @@ title: 'Pulmerator: Chapter 0'
 tags: ["Pulming"]
 ---
 
-The first chapter lorem ipsum and stuff
+The first chapter lorem ipsum and stuff. HAHAHAHAA IT iS ME TEDDY
