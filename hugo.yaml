@@ -89,6 +89,9 @@ params:
     - name: YouTube
       title: Second Channel
       url: "https://www.youtube.com/@TeddyWulftone"
+    - name: Instagram
+      title: Instagram
+      url: "https://www.instagram.com/teddywulftone/"
 
 ####
 # Done with the params
